@@ -17,5 +17,24 @@
 ## What process/step you use to analyze the situation/issue
 ### For this part of the project, I will be utilizing the various graphs from the world development website (www.worlddev.xyz)
 
-![](charts/2010.png))
+## Suicide rate in 2010 for the 4 Countries based on Stocks Traded & the S&P Global Equity Indices
+![](charts/2010.png)
+### This bubble chart allows for the visualization of the suicide mortality rate by the size of the bubble. The larger the bubble, the higher the suicide mortality rate. We can see that the USA has the highest volume of stocks traded (% of GDP) in 2010 and has a moderate level of suicide mortality rate. In comparison, the United Emirates has lowest volume of stocks traded with a very low amount of suicide mortality rate. I would like to focus on South Korea which seemingly has a moderate level of stocks traded and a very large level of suicide rates. 
 
+![](charts/2015.png)
+### Looking at the same variables, we are able to visualize the changes across a five year span. The variablity of change in suicide mortality rates seem to be the same. South Korea is once again the largest bubble signifying the highest rate of suicide. The USA and United Emirates have the highest and lowest (respectively) volume of stocks traded. Inflation does not seem to affect suicide rates.
+
+## Inflation Across the Years 2010 - 2018
+![](charts/CPI.png)
+### Using a line graph provides an excellent visualization of the changes in inflation over the years. Focusing on South Korea (which was shown to have the highest suicide mortality rates in both 2010 and 2015), we can see that the inflation rate decreases from 3% in 2010 to 0.75% in 2015. Notably, the United States also has a drastic change in inflation rates from 0.9% in 2010 to 2.6% in 2015. 
+
+## Foreign Direct Investments (Net Outflows) Across the Years 2010-2019
+![](charts/foreign investment.png)
+### Other than the United States, the three other countries seems to have a flat line in net outflows during the years selected. The United States shows a steep drop in net outflows in 2018.
+
+## S&P 500 Global Equity Indices 2010-2015
+![](charts/s&p 2010.png)
+### Analyzing the stock market directly with the S&P 500 Global Equity Indices, we can see that South Korea and Canada both show high levels of annual percent change. 
+
+![](charts/s&p 2015.png)
+### When viewing the same metrics in 2015, all four countries have negative percent changes with Canada and the United Emirates showing the greatest change. 
