@@ -18,10 +18,10 @@
 ### For this part of the project, I will be utilizing the various graphs from the world development website (www.worlddev.xyz)
 
 ## Suicide rate in 2010 for the 4 Countries based on Stocks Traded & the S&P Global Equity Indices
-![](charts/2010.png)
+![](charts/2010.PNG)
 ### This bubble chart allows for the visualization of the suicide mortality rate by the size of the bubble. The larger the bubble, the higher the suicide mortality rate. We can see that the USA has the highest volume of stocks traded (% of GDP) in 2010 and has a moderate level of suicide mortality rate. In comparison, the United Emirates has lowest volume of stocks traded with a very low amount of suicide mortality rate. I would like to focus on South Korea which seemingly has a moderate level of stocks traded and a very large level of suicide rates. 
 
-![](charts/2015.png)
+![](charts/2015.PNG)
 ### Looking at the same variables, we are able to visualize the changes across a five year span. The variablity of change in suicide mortality rates seem to be the same. South Korea is once again the largest bubble signifying the highest rate of suicide. The USA and United Emirates have the highest and lowest (respectively) volume of stocks traded. Inflation does not seem to affect suicide rates.
 
 ## Inflation Across the Years 2010 - 2018
