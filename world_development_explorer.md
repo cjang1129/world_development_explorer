@@ -17,5 +17,5 @@
 ## What process/step you use to analyze the situation/issue
 ### For this part of the project, I will be utilizing the various graphs from the world development website (www.worlddev.xyz)
 
-![](![2010](![2010](https://user-images.githubusercontent.com/60392869/113519186-a69e8780-9558-11eb-96dc-8056b660bc52.png))
+![](charts/2010.png))
 
