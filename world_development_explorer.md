@@ -33,8 +33,8 @@
 ### Other than the United States, the three other countries seems to have a flat line in net outflows during the years selected. The United States shows a steep drop in net outflows in 2018.
 
 ## S&P 500 Global Equity Indices 2010-2015
-![](charts/s&p 2010.png)
+![](https://github.com/cjang1129/world_development_explorer/blob/98bfe87b2fe0f33305cd5aa81457ce750511c008/charts/s&p%202010.png)
 ### Analyzing the stock market directly with the S&P 500 Global Equity Indices, we can see that South Korea and Canada both show high levels of annual percent change. 
 
-![](charts/s&p 2015.png)
+![](https://github.com/cjang1129/world_development_explorer/blob/98bfe87b2fe0f33305cd5aa81457ce750511c008/charts/s&p%202015.png)
 ### When viewing the same metrics in 2015, all four countries have negative percent changes with Canada and the United Emirates showing the greatest change. 
