@@ -25,11 +25,11 @@
 ### Looking at the same variables, we are able to visualize the changes across a five year span. The variablity of change in suicide mortality rates seem to be the same. South Korea is once again the largest bubble signifying the highest rate of suicide. The USA and United Emirates have the highest and lowest (respectively) volume of stocks traded. Inflation does not seem to affect suicide rates.
 
 ## Inflation Across the Years 2010 - 2018
-![](charts/CPI.png)
+![](https://github.com/cjang1129/world_development_explorer/blob/2d31fd5d02a7bf864dda488dae42c709337ffd4c/charts/CPI.PNG)
 ### Using a line graph provides an excellent visualization of the changes in inflation over the years. Focusing on South Korea (which was shown to have the highest suicide mortality rates in both 2010 and 2015), we can see that the inflation rate decreases from 3% in 2010 to 0.75% in 2015. Notably, the United States also has a drastic change in inflation rates from 0.9% in 2010 to 2.6% in 2015. 
 
 ## Foreign Direct Investments (Net Outflows) Across the Years 2010-2019
-![](https://github.com/cjang1129/world_development_explorer/blob/de6037e96fd50583fdcf4ae3e0f41fbbb0dc1ab4/charts/foreign%20investment.png)
+![](https://github.com/cjang1129/world_development_explorer/blob/2d31fd5d02a7bf864dda488dae42c709337ffd4c/charts/foreign%20investment.PNG)
 ### Other than the United States, the three other countries seems to have a flat line in net outflows during the years selected. The United States shows a steep drop in net outflows in 2018.
 
 ## S&P 500 Global Equity Indices 2010-2015
