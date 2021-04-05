@@ -30,7 +30,7 @@
 
 ## Foreign Direct Investments (Net Outflows) Across the Years 2010-2019
 ![](https://github.com/cjang1129/world_development_explorer/blob/2d31fd5d02a7bf864dda488dae42c709337ffd4c/charts/foreign%20investment.PNG)
-### Other than the United States, the three other countries seems to have a flat line in net outflows during the years selected. The United States shows a steep drop in net outflows in 2018.
+### Other than the United States, the three other countries seems to have a flat line in net outflows during the years selected. The United States shows a steady decrease throughout the years.
 
 ## S&P 500 Global Equity Indices 2010-2015
 ![](https://github.com/cjang1129/world_development_explorer/blob/98bfe87b2fe0f33305cd5aa81457ce750511c008/charts/s&p%202010.png)
