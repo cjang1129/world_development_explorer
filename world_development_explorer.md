@@ -29,7 +29,7 @@
 ### Using a line graph provides an excellent visualization of the changes in inflation over the years. Focusing on South Korea (which was shown to have the highest suicide mortality rates in both 2010 and 2015), we can see that the inflation rate decreases from 3% in 2010 to 0.75% in 2015. Notably, the United States also has a drastic change in inflation rates from 0.9% in 2010 to 2.6% in 2015. 
 
 ## Foreign Direct Investments (Net Outflows) Across the Years 2010-2019
-![](charts/foreign investment.png)
+![](https://github.com/cjang1129/world_development_explorer/blob/de6037e96fd50583fdcf4ae3e0f41fbbb0dc1ab4/charts/foreign%20investment.png)
 ### Other than the United States, the three other countries seems to have a flat line in net outflows during the years selected. The United States shows a steep drop in net outflows in 2018.
 
 ## S&P 500 Global Equity Indices 2010-2015
